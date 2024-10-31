@@ -16,7 +16,7 @@ Welcome to the Git and GitHub Workshop Task!. **To receive certified**, you need
 
 6. **Commit and Push:** Commit the changes you made to the file and push them to your branch.
 
-7. **Create a Pull Request:** Finally, create a Pull Request (PR) to merge your changes into the `submission` branch. We'll review your PR, and if it meets the requirements, you'll be on your way to joining the team!
+7. **Create a Pull Request:** Finally, create a Pull Request (PR) to merge your changes into the `submission` branch. We'll review your PR.
 
 ## Tips
 
