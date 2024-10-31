@@ -28,5 +28,3 @@ Good luck, and happy coding!
 ---
 
 #### Credits: [@CanCodes](https://github.com/CanCodes)
-
-test
