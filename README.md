@@ -20,6 +20,13 @@ Here’s the guide with the task explanations included:
 3. **Create a New Branch:** Create a new branch with a name that includes your name and surname (e.g., `firstname-lastname`).
 
    ```bash
+   git branch firstname-lastname
+   git checkout firstname-lastname
+   ```
+
+   OR
+
+   ```bash
    git checkout -b firstname-lastname
    ```
 
