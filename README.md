@@ -2,6 +2,8 @@
 
 Welcome to the Git and GitHub Workshop Task!. **To receive certified**, you need to complete the following task. This task will help you understand the basics of Git and GitHub, which are essential tools for software development.
 
+---
+
 ## Task Description
 
 Here’s the guide with the task explanations included:
